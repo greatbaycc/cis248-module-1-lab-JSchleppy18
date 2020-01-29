@@ -20,7 +20,6 @@ public class ContactList {
         if(indexNum % 2 != 0) {
             isOdd = true;
         }
-
         return isOdd;
     }
 
